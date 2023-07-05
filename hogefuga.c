@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+//あああ
+
 int main(void)
 {
     int nandemoii;
